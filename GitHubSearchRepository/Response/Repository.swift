@@ -6,8 +6,6 @@
 //  Copyright © 2017年 koogawa. All rights reserved.
 //
 
-import Foundation
-
 struct Repository : JSONDecodable {
     let id: Int
     let name: String

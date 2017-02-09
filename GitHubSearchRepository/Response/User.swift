@@ -6,8 +6,6 @@
 //  Copyright © 2017年 koogawa. All rights reserved.
 //
 
-import Foundation
-
 struct User : JSONDecodable {
     let id: Int
     let login: String
